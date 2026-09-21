@@ -8,4 +8,4 @@ header_pages:
   - contact.md
 
 minima:
-  skin: auto
+  skin: dark
