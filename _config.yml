@@ -1,0 +1,11 @@
+title: xalmaier's GitHub page
+description: Welcome to my website
+theme: minima
+
+# Minima theme social links configuration
+minima:
+  social_links:
+    email: github@alexmaier.eu  
+    github: xalmaier
+    # twitter: username
+    # linkedin: username
