@@ -1,3 +1,8 @@
 title: xalmaier's GitHub page
 description: Welcome to my website
 theme: minima
+
+header_pages:
+  - tutorials.md
+  - about.md
+  - contact.md
