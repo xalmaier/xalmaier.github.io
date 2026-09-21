@@ -6,6 +6,3 @@ header_pages:
   - tutorials.md
   - about.md
   - contact.md
-
-minima:
-  skin: auto
