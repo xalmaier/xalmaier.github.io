@@ -1,9 +1,6 @@
 title: xalmaier's GitHub page
 description: Welcome to my website
-
-remote_theme: jekyll/minima
-plugins:
-  - jekyll-remote-theme
+theme: minima
 
 header_pages:
   - tutorials.md
